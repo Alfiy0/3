@@ -1,3 +1,3 @@
-#Subdomain Takeover By Alfiya
+# Subdomain Takeover By Alfiya
 
-#admin.login.gh.allegrogroup.com
+# admin.login.gh.allegrogroup.com
